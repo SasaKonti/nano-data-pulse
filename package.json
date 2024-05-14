@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "tea-resta": "1.0.0", 
+    "tea-reversa": "1.0.0", 
+    "tea-restasigne": "1.0.0", 
+    "tea-reversasigne": "1.0.0", 
+    "inquirer": "^9.2.21",
+    "tea-forliann": "^1.1.5",
+    "tea-triplble": "^1.1.5",
+    "vue": "^3.4.27"
+  }
+}
